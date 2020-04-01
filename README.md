@@ -16,5 +16,9 @@
 
 * Linux安装Nacos集群[详细步骤]：https://blog.csdn.net/qq_40722827/article/details/105122812
 
+* 一文深入理解Zookeeper核心知识，2020年你值得拥有：https://blog.csdn.net/qq_40722827/article/details/105182718
+
+* Nginx从入门到精通，这篇你绝对不能错过：https://blog.csdn.net/qq_40722827/article/details/105202938
+
 #######
 2020.4.1
