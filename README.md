@@ -12,5 +12,9 @@
 
 * 分布式事务---Seata：https://blog.csdn.net/qq_40722827/article/details/105161929
 
+* 深入理解Dubbo核心概念,这篇文章你绝对不能错过：https://blog.csdn.net/qq_40722827/article/details/105177384
+
+* Linux安装Nacos集群[详细步骤]：https://blog.csdn.net/qq_40722827/article/details/105122812
+
 #######
-2020.3.28
+2020.4.1
